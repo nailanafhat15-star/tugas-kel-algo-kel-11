@@ -7,7 +7,7 @@
 
 5. Tampilan Ringkasan Analisis Kasus
     OUTPUT "                                RINGKASAN ANALISIS KASUS                                  "
-    OUTPUT "------------------------------------------------------------------------------------------"
+   
 OUTPUT hasil ringkasan :  
  - Best Case (Kartu ke-1)            : 2.000 s (Langkah 1) 
  - Worst Case (Kartu ke-300)         : 600.000 s (Langkah 300)
@@ -15,7 +15,7 @@ OUTPUT hasil ringkasan :
  - Selisih Waktu (Worst - Best)      : ( waktu_Worst - waktu_Best)  598.000 s 
  - Percepatan Best terhadap Worst    : ( waktu_worst / waktu_ best ) 300.00x lebih cepat
  - Percepatan Best terhadap Average  : ( waktu_average / waktu_Best ) 150.50x lebih cepat
-OUTPUT"=============================="  
+ 
 
     
 Selesai
